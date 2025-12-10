@@ -42,15 +42,8 @@ The tool automatically installs the required packages if missing:
 
 ---
 
-# 🛠️ Installation
+# Example
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/en-ja-translation-tool.git
-cd en-ja-translation-tool
-
-# Example 
 English → Japanese translator (Google-like). Type 'quit' or 'exit' to stop.
 
 English: I love learning Japanese.
@@ -64,4 +57,5 @@ I                    私                            watashi
 love                 愛する                        aisuru
 learning             学ぶ                          manabu
 Japanese             日本語                        nihongo
+
 .                    .                            
